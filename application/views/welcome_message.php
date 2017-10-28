@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Hello Swift</title>
+	<title>Swift Online Ticket Booking</title>
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/jquery-ui.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/styles.css">
@@ -35,6 +35,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		  <option>2</option>
 		  <option>3</option>
 		  <option>4</option>
+		  <option>5</option>
 		</select>
 	  </div>
 	  <div class="form-group">
